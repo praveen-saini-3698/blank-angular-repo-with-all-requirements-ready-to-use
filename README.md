@@ -1,0 +1,1 @@
+# blank-angular-repo-with-all-requirements-ready-to-use
